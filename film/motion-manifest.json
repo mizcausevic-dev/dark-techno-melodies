@@ -1,0 +1,26 @@
+{
+  "title": "Dark Techno Melodies",
+  "study": "dk01",
+  "bpm": 132,
+  "source_audio": "preview/dark-techno-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "ffbaff6ab803bab59642d1e6785983feec76928829d4a77d17348f53509fe2ac",
+  "source_midi": "midi/dk01-black-passage/dk01-black-passage-combined.mid",
+  "source_midi_sha256": "be79acfc2ae2ef5defa89329c451aca9364d0b4f919250c17b49e522b6f935c4",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0cb06373cf3d57a6661ea91513aead590e48825a513d959f1de3d50709310877",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "8a335f4711be7f6f29ab55b1969484bdde553686742fd2713bd34c0d07037652",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "c125bf3bad8cfd9c82a58be484f363217a219dec891c3f96dcdd5c00e60f098a",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
