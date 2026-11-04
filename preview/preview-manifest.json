@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dark-techno-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "ffbaff6ab803bab59642d1e6785983feec76928829d4a77d17348f53509fe2ac",
+  "source_midi_path": "midi/dk01-black-passage/dk01-black-passage-combined.mid",
+  "source_midi_sha256": "be79acfc2ae2ef5defa89329c451aca9364d0b4f919250c17b49e522b6f935c4",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "dk01",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.115303,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

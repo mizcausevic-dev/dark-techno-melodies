@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dk01,Black Passage,pack-local equal-tempered pitch collection,B,132,4/4,480,32,61440,midi/dk01-black-passage/dk01-black-passage-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dk02,Narrow Beam,pack-local equal-tempered pitch collection,D,132,4/4,480,32,61440,midi/dk02-narrow-beam/dk02-narrow-beam-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dk03,Second Signal,pack-local equal-tempered pitch collection,F,132,4/4,480,32,61440,midi/dk03-second-signal/dk03-second-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dk04,Cold Return,pack-local equal-tempered pitch collection,C,132,4/4,480,32,61440,midi/dk04-cold-return/dk04-cold-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
