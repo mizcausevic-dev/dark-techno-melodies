@@ -187,6 +187,11 @@
       "sha256": "1a18a24312b4c350cea6d22f4f60fce63e108a902394064aafac202be8ef0f29"
     },
     {
+      "path": "DAW-IMPORT.md",
+      "bytes": 1662,
+      "sha256": "d36242b309bc55827db6572cdb98a02cfbc2349684cf2db7855b6beddeae39bc"
+    },
+    {
       "path": "delivery.md",
       "bytes": 424,
       "sha256": "d7806a1a28a8b96fd6719f8aacf13afabe98e9b97c80d8207319fb2327061670"
@@ -243,8 +248,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9776,
-      "sha256": "90e4258dcdacfe5b8f76ce0b50d2ce9af6df12f3fded6f952a91cdde1f7cbd60"
+      "bytes": 10253,
+      "sha256": "a258dda6f96ed81559bc6f9bacd9cb396105c7a224ec7327cb870be42c13c064"
     },
     {
       "path": "midi/dk01-black-passage/chord_pulse.mid",
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4049,
-      "sha256": "dd8b62c8ccb55a702fc62f10e3d1fa178fb6c603885e7b1aea7b68f36aeef6ca"
+      "bytes": 4205,
+      "sha256": "5ce795641f97975b85cec875deb6bd75982dbdf63c0818d216340b0377efd536"
     },
     {
       "path": "REVISION.md",

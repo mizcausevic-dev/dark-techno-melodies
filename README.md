@@ -61,3 +61,7 @@ To regenerate media after rebuilding, preserve the source image and run `python 
 ## Melody clip revision
 
 The current archive includes revised four-bar melody clip. The full studies and previews are unchanged. See [REVISION.md](REVISION.md).
+
+## DAW import and usage
+
+See [DAW-IMPORT.md](DAW-IMPORT.md) for the tested Ableton Live import, MIDI instrument setup, and the current usage-terms status.
