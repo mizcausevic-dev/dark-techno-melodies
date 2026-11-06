@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 790,
-      "sha256": "a3de8dbceffde43df45f7b3b8fff4e1a835227b17e963d19b532cbbe9fcdf994"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3887,
-      "sha256": "47e0c3561d08431819070a2f27af098ff3c9fb72e5aca3c7ab7f1a8a2c85126c"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -59,7 +49,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1804,
-      "sha256": "26e9eed1daff1671015def292f96773e328d714af66d4f6abf4e70f89438e6ac"
+      "sha256": "e9488e286f6eb8ecbdb9011fa6db28cf39bda7332b54a39b19a5d4c8b5307c8e"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -143,8 +133,8 @@
     },
     {
       "path": "clips/dk02-melody-02.mid",
-      "bytes": 130,
-      "sha256": "b4aed2e3c32e2dbcd95a67d749a87b7b47e99f236b9ef09e780d2a97509eedd4"
+      "bytes": 140,
+      "sha256": "2d7f7ac1d833855008f4bcd27e04d79e6b87ecf5a00459ea3360f713c8913ec8"
     },
     {
       "path": "clips/dk02-melody-03.mid",
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/dark-techno-melodies-midi.zip",
-      "bytes": 25879,
-      "sha256": "0c807a82e65c1956a804fd12103b7e18ee0b4edd87df840e49624e5b7f80fdbf"
+      "bytes": 26790,
+      "sha256": "31a0d6f82d349e9b84e7e0216a7238a4991a797e9215d2f8af41117534be191f"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33614,
       "sha256": "6b693afa1ce2d8b8cb4212d09c001690a9fb946824c7ac72b2487142ff53185f"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 777841,
-      "sha256": "c125bf3bad8cfd9c82a58be484f363217a219dec891c3f96dcdd5c00e60f098a"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9529,
-      "sha256": "40de2c2ff3949541b26820656a0d06de9d15276337c0beb9d4979e7671ab82df"
+      "bytes": 9776,
+      "sha256": "90e4258dcdacfe5b8f76ce0b50d2ce9af6df12f3fded6f952a91cdde1f7cbd60"
     },
     {
       "path": "midi/dk01-black-passage/chord_pulse.mid",
@@ -402,6 +387,11 @@
       "sha256": "ec78fc593e00cf245fa40e663f39d7df35d8cc484749cac8c6b851e7c37f6e2f"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 790,
+      "sha256": "a3de8dbceffde43df45f7b3b8fff4e1a835227b17e963d19b532cbbe9fcdf994"
+    },
+    {
       "path": "preview/dark-techno-melodies-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "ffbaff6ab803bab59642d1e6785983feec76928829d4a77d17348f53509fe2ac"
@@ -410,6 +400,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1137,
       "sha256": "13051f27ec4e80640b7c22f808036748962ce44e94d759313944028cda3b03c2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4049,
+      "sha256": "dd8b62c8ccb55a702fc62f10e3d1fa178fb6c603885e7b1aea7b68f36aeef6ca"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 307,
+      "sha256": "d9dcd47d07e32ca27f61d244d5331897bb995897063e066f50b42c016976b02c"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -453,8 +453,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 6758,
-      "sha256": "17f1280e0d2c6b083ac402950e3350e63dfa45d0d36c8be13e968a222f80860f"
+      "bytes": 7128,
+      "sha256": "be942ac21b8cb71804a74a749060175c2594d06ace32be669766cf02face83c2"
     },
     {
       "path": "tools/render_motion_preview.py",

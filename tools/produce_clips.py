@@ -66,6 +66,9 @@ def main():
                             pitches = [pitches[0]-12, pitches[1], pitches[2]]
                         for pitch in sorted(pitches):
                             notes.append((bar*release.BAR_TICKS, 1440, pitch, 72 + (bar%2)*8))
+                elif kind == "principal_motif" and study["id"] == 'dk02' and variation == 1:
+                    # A four-bar answer using the study's documented chord tones.
+                    notes = [(360, 180, 74, 83), (960, 150, 80, 78), (1500, 150, 77, 74), (2280, 210, 80, 86), (3060, 150, 74, 79), (4200, 270, 77, 84), (5580, 150, 80, 76), (6780, 270, 74, 82)]
                 else:
                     start = (8 + variation*4) * release.BAR_TICKS
                     for event in score[kind]:
