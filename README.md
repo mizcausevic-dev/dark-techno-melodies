@@ -65,3 +65,7 @@ The current archive includes revised four-bar melody clip. The full studies and 
 ## DAW import and usage
 
 See [DAW-IMPORT.md](DAW-IMPORT.md) for the tested Ableton Live import, MIDI instrument setup, and the current usage-terms status.
+
+## MIDI buyer license
+
+See [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt), also included in the MIDI download.

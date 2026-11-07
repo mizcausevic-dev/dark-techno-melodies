@@ -17,4 +17,4 @@ These checks do not prove compatibility with every file, DAW, plugin or device. 
 
 ## Usage terms
 
-Buyer license terms and rights clearance for commercial use have not yet been established in this catalog. Do not infer a royalty-free or exclusive grant from the public download.
+The publisher offers the MIDI under the [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt). Review its permitted uses, restrictions, and exclusions.

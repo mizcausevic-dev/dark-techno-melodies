@@ -188,8 +188,8 @@
     },
     {
       "path": "DAW-IMPORT.md",
-      "bytes": 1662,
-      "sha256": "d36242b309bc55827db6572cdb98a02cfbc2349684cf2db7855b6beddeae39bc"
+      "bytes": 1635,
+      "sha256": "12e8a6d88a24f5cf51c044e3ba0417a2ba5c8e276b175f1930d3bdae37f268f8"
     },
     {
       "path": "delivery.md",
@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-techno-melodies-midi.zip",
-      "bytes": 26790,
-      "sha256": "31a0d6f82d349e9b84e7e0216a7238a4991a797e9215d2f8af41117534be191f"
+      "bytes": 27777,
+      "sha256": "49480216b018cd79343bc045b9ffaa4e330ca7be1abd529ec288dc65445d4a4c"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -248,8 +248,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10253,
-      "sha256": "a258dda6f96ed81559bc6f9bacd9cb396105c7a224ec7327cb870be42c13c064"
+      "bytes": 10280,
+      "sha256": "cb50ad3b5263f4d4b9959eecf135f3dfab53c123f004b5a14d98d50e0ab3d0af"
     },
     {
       "path": "midi/dk01-black-passage/chord_pulse.mid",
@@ -392,6 +392,11 @@
       "sha256": "ec78fc593e00cf245fa40e663f39d7df35d8cc484749cac8c6b851e7c37f6e2f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 790,
       "sha256": "a3de8dbceffde43df45f7b3b8fff4e1a835227b17e963d19b532cbbe9fcdf994"
@@ -408,8 +413,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4205,
-      "sha256": "5ce795641f97975b85cec875deb6bd75982dbdf63c0818d216340b0377efd536"
+      "bytes": 4325,
+      "sha256": "f0c315c5ea5ab080b04fb4aab75aafbb066100366d7d5963fffc812364fece5c"
     },
     {
       "path": "REVISION.md",
